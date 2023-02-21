@@ -12,5 +12,7 @@ This repository is based on laracast series call [Code Katas with PHPUnit](https
 
 # Exercises
 
-[1. Prime Factors Kata](Exercises/PrimeFactorKata.md)
 
+
+[1. Prime Factors Kata](exercises/PrimeFactorKata.md) \
+[2. Roman Numerals Kata](exercises/RomanNumeralsKata.md)

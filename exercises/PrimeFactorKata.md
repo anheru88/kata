@@ -30,4 +30,4 @@ Think about how you can iteratively reduce the input number by dividing it by it
 Consider edge cases, such as what happens if the input is 1 or a negative integer.
 Use the test-driven development approach to guide your implementation and catch any issues early on.
 
-You can see the solve of this solution for this kata in **PHP** in this [link.](../php/tests/PrimeFactorsTest.php)
+You can see to solve of this solution for this kata in **PHP** in this [link.](../php/tests/PrimeFactorsTest.php)
